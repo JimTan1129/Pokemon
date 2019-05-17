@@ -9,10 +9,10 @@ h1 {
 img {
   width: 100px;
   padding-left: 50px;
-  padding: 100px;
-
+  padding: 50px;
+  align-content: center;
 }
 
 div img {
-  width: 250px;
+  width: 150px;
 }
