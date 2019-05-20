@@ -10,9 +10,18 @@ img {
   width: 100px;
   padding-left: 50px;
   padding: 50px;
-  align-content: center;
+  position: right;
 }
 
 div img {
   width: 150px;
+}
+
+head {
+  width: 200px;
+  length: 200px;
+}
+
+h2 {
+  color: white;
 }
