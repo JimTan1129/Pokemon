@@ -8,9 +8,7 @@ h1 {
 
 img {
   width: 100px;
-  padding-left: 50px;
-  padding: 50px;
-  position: right;
+  padding: 120px;
 }
 
 div img {
@@ -24,4 +22,21 @@ head {
 
 h2 {
   color: white;
+}
+
+a {
+  text-align: center;
+  padding-left: 245px;
+  font-size: 25px;
+}
+
+p {
+ text-align:center;
+ color: white;
+}
+
+button {
+  padding-left: 10px;
+  font-size: 15px;
+  text-align: center;
 }
