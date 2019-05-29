@@ -87,7 +87,7 @@ this.hp = hp
 this.attack = attack
 this.defense = defense
 this.speed = speed
-this. ability1 = ability1
+this.ability1 = ability1
 this.ability2 = ability2
 }
 }
