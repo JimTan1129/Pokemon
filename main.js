@@ -1,4 +1,3 @@
-
 you = prompt("Enter your trainer name").toUpperCase()
 let nav = document.getElementById('nav')
 nav.innerText = `Trainer ${you}`
@@ -78,7 +77,7 @@ return this.party
 }
 }
 
-train = new Trainer('Alex')
+train = new Trainer('Jimmy')
 
 class Pokemon {
 constructor(name, hp, attack, defense, speed, ability1, ability2){
